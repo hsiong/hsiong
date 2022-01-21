@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A programmer being absorbed in Java, Android, Vue, Embedded System, etc.
+
+[![hsiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsiong&theme=merko)](https://github.com/hsiong/github-readme-stats)
