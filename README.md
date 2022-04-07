@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A programmer being absorbed in Java, Android, Vue, Embedded System, etc.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
 [![hsiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsiong&theme=merko)](https://github.com/hsiong/github-readme-stats)
 
