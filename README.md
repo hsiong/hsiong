@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A programmer being absorbed in Java, Android, Vue, Embedded System, etc.
+CRUD 膏级攻城狮  😄😄😄😄
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
