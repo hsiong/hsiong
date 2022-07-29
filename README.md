@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 CRUD 膏级攻城狮  😄😄😄😄
 
-<img align='right' src='https://pic1.zhimg.com/v2-319a38680ec38cc603824339f96f6920_b.jpg' width='410px'>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
