@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 
 CRUD 膏级攻城狮  😄😄😄😄
 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
 <ul style='list-style-type:none; padding:0px'>
