@@ -17,7 +17,7 @@ CRUD 膏级攻城狮 😄😄😄😄
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
-<img align='right' width='29%' src='./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg'>
+<img align='right' width='30%' src='./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg'>
 
 <img width='66%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hsiong&layout=compact&card_width=400&theme=jolly'>
 
