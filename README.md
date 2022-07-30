@@ -16,24 +16,17 @@ CRUD 膏级攻城狮  😄😄😄😄
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
-<ul style='list-style-type:none; padding:0px'>
-<li>
-<img style='padding: 20px 0px' align='right'  width='%' src='./6bb9c072299f4755a2c87a27695ada2c.gif'>
-</li>
-<li>
+<img align='right' width='30%'  src='./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg'>
 
-<img style='padding: 20px 0px' align='right' width='30%'  src='./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hsiong&layout=compact&card_width=400'>
 
-&nbsp;
+<img src='https://github-readme-stats.vercel.app/api?username=hsiong&theme=merko'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsiong&layout=compact&card_width=400)](https://github.com/hsiong/github-readme-stats)
 
-&nbsp;
+<!-- [![Top Langs]()](https://github.com/hsiong/github-readme-stats) -->
 
-[![hsiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsiong&theme=merko)](https://github.com/hsiong/github-readme-stats)
-</li>
-</ul>
 
+<!-- [![hsiong's GitHub stats]()](https://github.com/hsiong/github-readme-stats) -->
 
 
 
@@ -56,3 +49,6 @@ CRUD 膏级攻城狮  😄😄😄😄
 |![Tool](https://img.shields.io/badge/-Tool-black?style=flat)|![IDEA](https://img.shields.io/badge/-JetbrainsIDEA-red?logo=jetbrains) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-green?style=flat&logo=Visual-Studio-Code) ![Postman](https://img.shields.io/badge/-Postman-yellow?logo=postman)   ![Jmeter](https://img.shields.io/badge/-Jmeter-lightgrey?logo=apachejmeter)  ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)|
 |![Template](https://img.shields.io/badge/-Template-black?style=flat)|![Freemark](https://img.shields.io/badge/-Freemark-red?logo=CoinMarketCap) ![Markdown](https://img.shields.io/badge/-Markdown-green?logo=Markdown)|
 |![Learning](https://img.shields.io/badge/-Learning-black?style=flat) |![Kafka](https://img.shields.io/badge/-Kafka-red?logo=apachekafka) ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js) ![c](https://img.shields.io/badge/-c-yellow?logo=c)  ![Python](https://img.shields.io/badge/-Python-lightgrey?logo=Python)|
+
+
+<img  width='100%' src='./6bb9c072299f4755a2c87a27695ada2c.gif'>
