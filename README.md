@@ -29,7 +29,6 @@ CRUD 膏级攻城狮 😄😄😄😄
 
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <table> 
-<tbody>
 <tr> 
     <th>End</th> 
     <th>Stack</th> 
@@ -70,7 +69,6 @@ CRUD 膏级攻城狮 😄😄😄😄
     <td><img src="https://img.shields.io/badge/-Learning-black?style=flat" /></td> 
     <td> <img src="https://img.shields.io/badge/-Kafka-red?logo=apachekafka" /> <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js" /> <img src="https://img.shields.io/badge/-c-yellow?logo=c" /> <img src="https://img.shields.io/badge/-Python-lightgrey?logo=Python" /> </td> 
 </tr> 
-</tbody>
 </table>
 
-<img  width='100%' src='./6bb9c072299f4755a2c87a27695ada2c.gif'>
+<img width='100%' src='./6bb9c072299f4755a2c87a27695ada2c.gif'>
