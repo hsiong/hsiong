@@ -28,7 +28,7 @@ CRUD 膏级攻城狮 😄😄😄😄
 <!-- [![hsiong's GitHub stats]()](https://github.com/hsiong/github-readme-stats) -->
 
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-<table> 
+<table width='100%'> 
 <tr> 
     <th>End</th> 
     <th>Stack</th> 
