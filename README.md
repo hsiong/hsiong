@@ -29,9 +29,9 @@ CRUD 膏级攻城狮 😄😄😄😄
 
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <table> 
-<tr  width='100%'> 
-    <th>End</th> 
-    <th>Stack</th> 
+<tr> 
+    <th width='15%'>End</th> 
+    <th width='85%'>Stack</th> 
 </tr> 
 <tr> 
     <td><img src="https://img.shields.io/badge/-Frontend-black?style=flat" /></td> 
