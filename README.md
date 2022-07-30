@@ -17,7 +17,7 @@ CRUD 膏级攻城狮 😄😄😄😄
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
-<img align='right' width='30%'  src='./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg'>
+<img align='right' width='30%' src='./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg'>
 
 <img width='66%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hsiong&layout=compact&card_width=400&theme=jolly'>
 
@@ -71,4 +71,9 @@ CRUD 膏级攻城狮 😄😄😄😄
 </tr> 
 </table>
 
-<img width='100%' src='./6bb9c072299f4755a2c87a27695ada2c.gif'>
+<table boder="0">
+<tr>
+<td><img width='auto' max-height='100%' max-width='100%' src='./6bb9c072299f4755a2c87a27695ada2c.gif'></td></tr>
+</table>
+
+
