@@ -19,9 +19,9 @@ CRUD 膏级攻城狮 😄😄😄😄
 
 <img align='right' width='30%' src='./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg'>
 
-<img width='65%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hsiong&layout=compact&card_width=400&theme=jolly'>
+<img width='64%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hsiong&layout=compact&card_width=400&theme=jolly'>
 
-<img width='65%' src='https://github-readme-stats.vercel.app/api?username=hsiong&theme=jolly'>
+<img width='64%' src='https://github-readme-stats.vercel.app/api?username=hsiong&theme=jolly'>
 
 <!-- [![Top Langs]()](https://github.com/hsiong/github-readme-stats) -->
 
