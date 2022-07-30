@@ -31,7 +31,7 @@ CRUD 膏级攻城狮 😄😄😄😄
 <table> 
 <tr> 
     <th width='15%'>End</th> 
-    <th width='85%'>Stack</th> 
+    <th width='100%'>Stack</th> 
 </tr> 
 <tr> 
     <td><img src="https://img.shields.io/badge/-Frontend-black?style=flat" /></td> 
