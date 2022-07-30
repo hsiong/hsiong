@@ -28,10 +28,11 @@ CRUD 膏级攻城狮 😄😄😄😄
 <!-- [![hsiong's GitHub stats]()](https://github.com/hsiong/github-readme-stats) -->
 
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-<table> 
-<tr> 
-    <th width='15%'>End</th> 
-    <th width='100%'>Stack</th> 
+<div width='100%'>
+<table > 
+<tr > 
+    <th>End</th> 
+    <th width='100%' >Stack</th> 
 </tr> 
 <tr> 
     <td><img src="https://img.shields.io/badge/-Frontend-black?style=flat" /></td> 
@@ -71,9 +72,5 @@ CRUD 膏级攻城狮 😄😄😄😄
 </tr> 
 </table>
 
-<table boder="0">
-<tr>
-<td><img width='auto' max-height='100%' max-width='100%' src='./6bb9c072299f4755a2c87a27695ada2c.gif'></td></tr>
-</table>
-
-
+<img width='auto' max-height='100%' max-width='100%' src='./6bb9c072299f4755a2c87a27695ada2c.gif'>
+</div>
