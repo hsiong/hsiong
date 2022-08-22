@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CRUD 膏级攻城狮 😄😄😄😄
+CRUD 膏级攻城狮 😄😄😄😄  
+
+Fuck [JPA](https://github.com/spring-projects/spring-data-jpa) :D  How painful to use it ! 
+What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [Mybatis-plus](https://github.com/baomidou/mybatis-plus)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
