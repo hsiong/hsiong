@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 CRUD 膏级攻城狮 😄😄😄😄  
 
-Fuck [JPA](https://github.com/spring-projects/spring-data-jpa) :D  How painful to use it ! 
+Fuck [JPA](https://github.com/spring-projects/spring-data-jpa). How painful to use it !   
 What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [Mybatis-plus](https://github.com/baomidou/mybatis-plus)
+
+:D
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
