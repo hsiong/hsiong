@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*-- "读万卷书，行万里路，胸中脱去尘浊，自然丘壑内营。成立郛郭，随手写去，皆为山水传神。"* 😄😄😄😄  
+*-- "读万卷书，行万里路，胸中脱去尘浊，自然丘壑内营。成立郛郭，随手写去，皆为山水传神。"* 
 
 ***
 
-Fuck [JPA](https://github.com/spring-projects/spring-data-jpa). How painful to use it !   
+Fuck [JPA](https://github.com/spring-projects/spring-data-jpa). How painful to use it !   😄😄😄😄  
 What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [Mybatis-plus](https://github.com/baomidou/mybatis-plus)
 
 :D
