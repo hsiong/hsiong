@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 😄😄😄😄  
 
-Fuck up [JPA](https://github.com/spring-projects/spring-data-jpa). How painful to use it !   
-
 What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [Mybatis-plus](https://github.com/baomidou/mybatis-plus)
 
 :D
