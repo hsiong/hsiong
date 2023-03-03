@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [Mybatis-plus](https://github.com/baomidou/mybatis-plus)
 
-:D
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
 
 <img align='right' width='30%' src='./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg'>
