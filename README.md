@@ -26,7 +26,7 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
           <td width="70%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsiong&layout=compact&card_width=400&theme=jolly" width="100%">
     </td>
-    <td rowspan="3" width="30%">
+    <td rowspan="2" width="30%">
       <img src="./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg" width="100%">
     </td>
 
@@ -36,10 +36,6 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
       <img src="https://github-readme-stats.vercel.app/api?username=hsiong&theme=jolly" width="100%">
     </td>
   </tr>
-
-  <tr>          <td width="70%">
-              <img src="https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong" width="100%">
-    </td></tr>
 </table>
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=hsiong.hsiong) <!-- &left_color=green&right_color=red -->
@@ -48,7 +44,7 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
 
 <!-- [![hsiong's GitHub stats]()](https://github.com/hsiong/github-readme-stats) -->
 
-# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1">
 <div width='100%'>
 <table> 
 <tr > 
