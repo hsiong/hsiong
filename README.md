@@ -53,7 +53,7 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
 </tr> 
 <tr> 
     <td><img src="https://img.shields.io/badge/-AI-black?style=flat" /></td> 
-    <td> <img src="https://img.shields.io/badge/-LLM-red?logo=react" /> <img src="https://img.shields.io/badge/-RAG-green?logo=vue.js" /> <img src="https://img.shields.io/badge/-Dify-yellow?logo=typescript" /> </td> 
+    <td> <img src="https://img.shields.io/badge/-LLM-red?logo=languagetool" /> <img src="https://img.shields.io/badge/-RAG-green?logo=ray" /> <img src="https://img.shields.io/badge/-Dify-yellow?logo=ollama" /> </td> 
 </tr> 
 <tr> 
     <td> <img src="https://img.shields.io/badge/-Backend-black?style=flat" /> </td> 
