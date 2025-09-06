@@ -52,8 +52,8 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
     <th>Stack</th> 
 </tr> 
 <tr> 
-    <td><img src="https://img.shields.io/badge/-Frontend-black?style=flat" /></td> 
-    <td> <img src="https://img.shields.io/badge/-React-red?logo=react" /> <img src="https://img.shields.io/badge/-Vue-green?logo=vue.js" /> <img src="https://img.shields.io/badge/-TypeScript-yellow?logo=typescript" /> </td> 
+    <td><img src="https://img.shields.io/badge/-AI-black?style=flat" /></td> 
+    <td> <img src="https://img.shields.io/badge/-LLM-red?logo=react" /> <img src="https://img.shields.io/badge/-RAG-green?logo=vue.js" /> <img src="https://img.shields.io/badge/-Dify-yellow?logo=typescript" /> </td> 
 </tr> 
 <tr> 
     <td> <img src="https://img.shields.io/badge/-Backend-black?style=flat" /> </td> 
