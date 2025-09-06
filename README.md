@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -57,7 +58,7 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
 </tr> 
 <tr> 
     <td> <img src="https://img.shields.io/badge/-Backend-black?style=flat" /> </td> 
-    <td> <img src="https://img.shields.io/badge/-Java-red?logo=apachetomcat" /> <img src="https://img.shields.io/badge/-SpringCloud-green?logo=springboot" /> </td> 
+    <td> <img src="https://img.shields.io/badge/-Java-red?logo=apachetomcat" /> <img src="https://img.shields.io/badge/-SpringCloud-green?logo=springboot" /> <img src="https://img.shields.io/badge/-Python-yellow?logo=python" /> <img src="https://img.shields.io/badge/-Flask-lightgrey?logo=flask" /> </td> 
 </tr> 
 <tr> 
     <td> <img src="https://img.shields.io/badge/-Database-black?style=flat" /> </td> 
@@ -73,15 +74,11 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
 </tr> 
 <tr> 
     <td><img src="https://img.shields.io/badge/-OS-black?style=flat" /></td> 
-    <td> <img src="https://img.shields.io/badge/-MacOS-red?style=flat&amp;logo=macos" /> <img src="https://img.shields.io/badge/Arch_Linux-green?style=flat&amp;logo=arch-linux" /> <img src="https://img.shields.io/badge/Ubuntu-yellow?style=flat&amp;logo=ubuntu" /><img src="https://img.shields.io/badge/Mint-lightgrey?style=flat&amp;logo=mingww64" /> </td> 
+    <td> <img src="https://img.shields.io/badge/-MacOS-red?style=flat&amp;logo=macos" /> <img src="https://img.shields.io/badge/Arch_Linux-green?style=flat&amp;logo=arch-linux" /> <img src="https://img.shields.io/badge/Ubuntu-yellow?style=flat&amp;logo=ubuntu" /> <img src="https://img.shields.io/badge/Mint-lightgrey?style=flat&amp;logo=mingww64" /> </td> 
 </tr> 
 <tr> 
     <td><img src="https://img.shields.io/badge/-Tool-black?style=flat" /></td> 
     <td> <img src="https://img.shields.io/badge/-JetbrainsIDEA-red?logo=jetbrains" /> <img src="https://img.shields.io/badge/-VS_Code-green?style=flat&amp;logo=Visual-Studio-Code" /> <img src="https://img.shields.io/badge/-Postman-yellow?logo=postman" /> <img src="https://img.shields.io/badge/-Jmeter-lightgrey?logo=apachejmeter" /> <img src="https://img.shields.io/badge/-Git-white?style=flat&amp;logo=git" /> <img src="https://img.shields.io/badge/-Freemark-red?logo=CoinMarketCap" /> <img src="https://img.shields.io/badge/-Markdown-green?logo=Markdown" /> </td> 
-</tr> 
-<tr> 
-    <td><img src="https://img.shields.io/badge/-Learning-black?style=flat" /></td> 
-    <td> <img src="https://img.shields.io/badge/-Kafka-red?logo=apachekafka" /> <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js" /> <img src="https://img.shields.io/badge/-c-yellow?logo=c" /> <img src="https://img.shields.io/badge/-Python-lightgrey?logo=Python" /> </td> 
 </tr> 
 </table>
 
