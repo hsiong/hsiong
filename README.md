@@ -68,10 +68,6 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
     <td><img src="https://img.shields.io/badge/-ElasticSearch-red?style=flat&amp;logo=elasticsearch" /> <img src="https://img.shields.io/badge/-Redis-green?logo=redis" /><img src="https://img.shields.io/badge/-Nginx-yellow?logo=nginx" /> <img src="https://img.shields.io/badge/-RabbitMQ-lightgrey?logo=rabbitmq" /> </td> 
 </tr> 
 <tr> 
-    <td><img src="https://img.shields.io/badge/-Middleware-black?style=flat" /></td> 
-    <td>  </td> 
-</tr> 
-<tr> 
     <td><img src="https://img.shields.io/badge/-Devops-black?style=flat" /></td> 
     <td> <img src="https://img.shields.io/badge/-Kubernetes-red?style=flat&amp;logo=kubernetes&amp;logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-green?logo=Docker" /> </td> 
 </tr> 
