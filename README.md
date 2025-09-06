@@ -52,7 +52,7 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
     <th>Stack</th> 
 </tr> 
 <tr> 
-    <td><img src="https://img.shields.io/badge/-AI-black?style=flat" /></td> 
+    <td><img src="https://img.shields.io/badge/-AIOps-black?style=flat" /></td> 
     <td> <img src="https://img.shields.io/badge/-LLM-red?logo=languagetool" /> <img src="https://img.shields.io/badge/-RAG-green?logo=ray" /> <img src="https://img.shields.io/badge/-Dify-yellow?logo=ollama" /> </td> 
 </tr> 
 <tr> 
@@ -64,7 +64,7 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
     <td> <img src="https://img.shields.io/badge/-Oracle-red?logo=oracle" /> <img src="https://img.shields.io/badge/-Postgresql-green?logo=postgresql" /> <img src="https://img.shields.io/badge/-Mysql-yellow?logo=mysql" /> </td> 
 </tr> 
 <tr> 
-    <td><img src="https://img.shields.io/badge/-Nosql-black?style=flat" /></td> 
+    <td><img src="https://img.shields.io/badge/-Middleware-black?style=flat" /></td> 
     <td><img src="https://img.shields.io/badge/-ElasticSearch-red?style=flat&amp;logo=elasticsearch" /> <img src="https://img.shields.io/badge/-Redis-green?logo=redis" /><img src="https://img.shields.io/badge/-Nginx-yellow?logo=nginx" /> <img src="https://img.shields.io/badge/-RabbitMQ-lightgrey?logo=rabbitmq" /> </td> 
 </tr> 
 <tr> 
