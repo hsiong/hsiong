@@ -74,7 +74,7 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
 </tr> 
 <tr> 
     <td><img src="https://img.shields.io/badge/-OS-black?style=flat" /></td> 
-    <td> <img src="https://img.shields.io/badge/-MacOS-red?style=flat&amp;logo=macos" /> <img src="https://img.shields.io/badge/Arch_Linux-green?style=flat&amp;logo=arch-linux" /> <img src="https://img.shields.io/badge/Ubuntu-yellow?style=flat&amp;logo=ubuntu" /> <img src="https://img.shields.io/badge/Mint-lightgrey?style=flat&amp;logo=mingww64" /> </td> 
+    <td> <img src="https://img.shields.io/badge/-MacOS-red?style=flat&amp;logo=macos" /> <img src="https://img.shields.io/badge/Manjaro-green?style=flat&amp;logo=manjaro" /> <img src="https://img.shields.io/badge/Ubuntu-yellow?style=flat&amp;logo=ubuntu" /> <img src="https://img.shields.io/badge/Mint-lightgrey?style=flat&amp;logo=mingww64" /> </td> 
 </tr> 
 <tr> 
     <td><img src="https://img.shields.io/badge/-Tool-black?style=flat" /></td> 
