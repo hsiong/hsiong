@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 ***
 
-😄😄😄😄  
-
-What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [Mybatis-plus](https://github.com/baomidou/mybatis-plus)
+😄😄😄😄  What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [Mybatis-plus](https://github.com/baomidou/mybatis-plus)
 
 <img src="https://github.com/hsiong/hsiong/blob/output/ocean.gif?raw=1" alt="snake gif" width="100%">
 
