@@ -25,7 +25,7 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
 <table>
   <tr>
           <td width="70%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsiong&layout=compact&card_width=400&theme=jolly" width="100%">
+      <img src="https://github-readme-stats-eta-ebon-68.vercel.app/api/top-langs/?username=hsiong&layout=compact&card_width=400&theme=jolly" width="100%">
     </td>
     <td rowspan="2" width="30%">
       <img src="./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg" width="100%">
@@ -34,7 +34,7 @@ What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [
   </tr>
   <tr>
     <td width="70%">
-      <img src="https://github-readme-stats.vercel.app/api?username=hsiong&theme=jolly" width="100%">
+      <img src="https://github-readme-stats-eta-ebon-68.vercel.app/api?username=hsiong&theme=jolly" width="100%">
     </td>
   </tr>
 </table>
