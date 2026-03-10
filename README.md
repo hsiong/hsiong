@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-          <td width="70%">
+          <td width="60%">
       <img src="https://github-readme-stats-khaki-kappa-47.vercel.app/api/top-langs/?username=hsiong&exclude_repo=github-readme-stats,java-base-multidb,project-URL-shortcut&layout=compact&theme=jolly" width="100%">
     </td>
-    <td rowspan="2" width="30%">
+    <td rowspan="2" width="40%">
       <img src="./21a4462309f79052f8ab47eb775efacd79cbd5e7.jpeg" width="100%">
     </td>
 
   </tr>
   <tr>
-    <td width="70%">
+    <td >
       <img src="https://github-readme-stats-khaki-kappa-47.vercel.app/api?username=hsiong&theme=jolly" width="100%">
     </td>
   </tr>
