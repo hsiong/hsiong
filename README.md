@@ -57,8 +57,8 @@ Here are some ideas to get you started:
     <th>Stack</th> 
 </tr> 
 <tr> 
-    <td><img src="https://img.shields.io/badge/-AIOps-black?style=flat" /></td> 
-    <td> <img src="https://img.shields.io/badge/-LLM-red?logo=languagetool" /> <img src="https://img.shields.io/badge/-RAG-green?logo=ray" /> <img src="https://img.shields.io/badge/-Dify-yellow?logo=ollama" /> </td> 
+    <td width='20%'><img src="https://img.shields.io/badge/-AIOps-black?style=flat" /></td> 
+    <td width='80%'> <img src="https://img.shields.io/badge/-LLM-red?logo=languagetool" /> <img src="https://img.shields.io/badge/-RAG-green?logo=ray" /> <img src="https://img.shields.io/badge/-Dify-yellow?logo=ollama" /> </td> 
 </tr> 
 <tr> 
     <td> <img src="https://img.shields.io/badge/-Backend-black?style=flat" /> </td> 
