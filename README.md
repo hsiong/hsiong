@@ -51,39 +51,110 @@ Here are some ideas to get you started:
 
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge.issue.1">
 <div width='100%'>
-<table> 
-<tr > 
-    <th>End</th> 
-    <th>Stack</th> 
-</tr> 
-<tr> 
-    <td width='20%'><img src="https://img.shields.io/badge/-AIOps-black?style=flat" /></td> 
-    <td width='80%'> <img src="https://img.shields.io/badge/-LLM-red?logo=languagetool" /> <img src="https://img.shields.io/badge/-RAG-green?logo=ray" /> <img src="https://img.shields.io/badge/-Dify-yellow?logo=ollama" /> </td> 
-</tr> 
-<tr> 
-    <td> <img src="https://img.shields.io/badge/-Backend-black?style=flat" /> </td> 
-    <td> <img src="https://img.shields.io/badge/-Java-red?logo=apachetomcat" /> <img src="https://img.shields.io/badge/-SpringCloud-green?logo=springboot" /> <img src="https://img.shields.io/badge/-Python-yellow?logo=python" /> <img src="https://img.shields.io/badge/-Flask-lightgrey?logo=flask" /> </td> 
-</tr> 
-<tr> 
-    <td> <img src="https://img.shields.io/badge/-Database-black?style=flat" /> </td> 
-    <td> <img src="https://img.shields.io/badge/-Oracle-red?logo=oracle" /> <img src="https://img.shields.io/badge/-Postgresql-green?logo=postgresql" /> <img src="https://img.shields.io/badge/-Mysql-yellow?logo=mysql" /> </td> 
-</tr> 
-<tr> 
-    <td><img src="https://img.shields.io/badge/-Middleware-black?style=flat" /></td> 
-    <td><img src="https://img.shields.io/badge/-ElasticSearch-red?style=flat&amp;logo=elasticsearch" /> <img src="https://img.shields.io/badge/-Redis-green?logo=redis" /> <img src="https://img.shields.io/badge/-Nginx-yellow?logo=nginx" /> <img src="https://img.shields.io/badge/-RabbitMQ-lightgrey?logo=rabbitmq" /> </td> 
-</tr> 
-<tr> 
-    <td><img src="https://img.shields.io/badge/-Devops-black?style=flat" /></td> 
-    <td> <img src="https://img.shields.io/badge/-Kubernetes-red?style=flat&amp;logo=kubernetes&amp;logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-green?logo=Docker" /> </td> 
-</tr> 
-<tr> 
-    <td><img src="https://img.shields.io/badge/-OS-black?style=flat" /></td> 
-    <td> <img src="https://img.shields.io/badge/-MacOS-red?style=flat&amp;logo=macos" /> <img src="https://img.shields.io/badge/Manjaro-green?style=flat&amp;logo=manjaro" /> <img src="https://img.shields.io/badge/Ubuntu-yellow?style=flat&amp;logo=ubuntu" /> <img src="https://img.shields.io/badge/Mint-lightgrey?style=flat&amp;logo=mingww64" /> </td> 
-</tr> 
-<tr> 
-    <td><img src="https://img.shields.io/badge/-Tool-black?style=flat" /></td> 
-    <td> <img src="https://img.shields.io/badge/-JetbrainsIDEA-red?logo=jetbrains" /> <img src="https://img.shields.io/badge/-VS_Code-green?style=flat&amp;logo=Visual-Studio-Code" /> <img src="https://img.shields.io/badge/-Postman-yellow?logo=postman" /> <img src="https://img.shields.io/badge/-Jmeter-lightgrey?logo=apachejmeter" /> <img src="https://img.shields.io/badge/-Git-white?style=flat&amp;logo=git" /> <img src="https://img.shields.io/badge/-Freemark-red?logo=CoinMarketCap" /> <img src="https://img.shields.io/badge/-Markdown-green?logo=Markdown" /> </td> 
-</tr> 
+
+
+<table>
+<tr>
+    <th>End</th>
+    <th>Stack</th>
+</tr>
+<tr>
+    <td width='20%'><img src="https://img.shields.io/badge/-AIOps-black?style=flat" /></td>
+    <td width='80%'>
+        <img src="https://img.shields.io/badge/-LLM-red?logo=ollama" />
+        <img src="https://img.shields.io/badge/-RAG-green?logo=ray" />
+        <img src="https://img.shields.io/badge/-Dify-yellow?logo=ollama" />
+        <img src="https://img.shields.io/badge/-AI_Agent-lightgrey?logo=robotframework" />
+        <img src="https://img.shields.io/badge/-DeepSeek-red?logo=deepseek" />
+        <img src="https://img.shields.io/badge/-Ollama-green?logo=ollama" />
+        <img src="https://img.shields.io/badge/-vLLM-yellow?logo=python" />
+        <img src="https://img.shields.io/badge/-Stable_Diffusion-lightgrey?logo=stabilityai" />
+        <img src="https://img.shields.io/badge/-ComfyUI-red?logo=python" />
+    </td>
+</tr>
+<tr>
+    <td><img src="https://img.shields.io/badge/-Backend-black?style=flat" /></td>
+    <td>
+        <img src="https://img.shields.io/badge/-Java-red?logo=openjdk" />
+        <img src="https://img.shields.io/badge/-SpringBoot-green?logo=springboot" />
+        <img src="https://img.shields.io/badge/-SpringCloud-yellow?logo=spring" />
+        <img src="https://img.shields.io/badge/-Python-lightgrey?logo=python" />
+        <img src="https://img.shields.io/badge/-FastAPI-red?logo=fastapi" />
+        <img src="https://img.shields.io/badge/-Flask-green?logo=flask" />
+    </td>
+</tr>
+<tr>
+    <td><img src="https://img.shields.io/badge/-Frontend-black?style=flat" /></td>
+    <td>
+        <img src="https://img.shields.io/badge/-JavaScript-red?logo=javascript" />
+        <img src="https://img.shields.io/badge/-TypeScript-green?logo=typescript" />
+        <img src="https://img.shields.io/badge/-HTML5-yellow?logo=html5" />
+        <img src="https://img.shields.io/badge/-CSS3-lightgrey?logo=css" />
+    </td>
+</tr>
+<tr>
+    <td><img src="https://img.shields.io/badge/-Database-black?style=flat" /></td>
+    <td>
+        <img src="https://img.shields.io/badge/-Oracle-red?logo=oracle" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-green?logo=postgresql" />
+        <img src="https://img.shields.io/badge/-MySQL-yellow?logo=mysql" />
+        <img src="https://img.shields.io/badge/-Neo4j-lightgrey?logo=neo4j" />
+    </td>
+</tr>
+<tr>
+    <td><img src="https://img.shields.io/badge/-Middleware-black?style=flat" /></td>
+    <td>
+        <img src="https://img.shields.io/badge/-ElasticSearch-red?logo=elasticsearch" />
+        <img src="https://img.shields.io/badge/-Redis-green?logo=redis" />
+        <img src="https://img.shields.io/badge/-Nginx-yellow?logo=nginx" />
+        <img src="https://img.shields.io/badge/-RabbitMQ-lightgrey?logo=rabbitmq" />
+    </td>
+</tr>
+<tr>
+    <td><img src="https://img.shields.io/badge/-ComputerVision-black?style=flat" /></td>
+    <td>
+        <img src="https://img.shields.io/badge/-OpenCV-red?logo=opencv" />
+        <img src="https://img.shields.io/badge/-Tesseract_OCR-green?logo=googlelens" />
+        <img src="https://img.shields.io/badge/-Image_Generation-yellow?logo=stabilityai" />
+    </td>
+</tr>
+<tr>
+    <td><img src="https://img.shields.io/badge/-Mobile-black?style=flat" /></td>
+    <td>
+        <img src="https://img.shields.io/badge/-Android-red?logo=android" />
+        <img src="https://img.shields.io/badge/-Kotlin-green?logo=kotlin" />
+    </td>
+</tr>
+<tr>
+    <td><img src="https://img.shields.io/badge/-Devops-black?style=flat" /></td>
+    <td>
+        <img src="https://img.shields.io/badge/-Kubernetes-red?logo=kubernetes" />
+        <img src="https://img.shields.io/badge/-Docker-green?logo=docker" />
+        <img src="https://img.shields.io/badge/-Linux_Shell-yellow?logo=gnubash" />
+    </td>
+</tr>
+<tr>
+    <td><img src="https://img.shields.io/badge/-OS-black?style=flat" /></td>
+    <td>
+        <img src="https://img.shields.io/badge/-MacOS-red?logo=apple" />
+        <img src="https://img.shields.io/badge/-Manjaro-green?logo=manjaro" />
+        <img src="https://img.shields.io/badge/-Ubuntu-yellow?logo=ubuntu" />
+        <img src="https://img.shields.io/badge/-Linux_Mint-lightgrey?logo=linuxmint" />
+    </td>
+</tr>
+<tr>
+    <td><img src="https://img.shields.io/badge/-Tool-black?style=flat" /></td>
+    <td>
+        <img src="https://img.shields.io/badge/-JetbrainsIDEA-red?logo=intellijidea" />
+        <img src="https://img.shields.io/badge/-PyCharm-green?logo=pycharm" />
+        <img src="https://img.shields.io/badge/-VS_Code-yellow?logo=visualstudiocode" />
+        <img src="https://img.shields.io/badge/-Postman-lightgrey?logo=postman" />
+        <img src="https://img.shields.io/badge/-Jmeter-red?logo=apachejmeter" />
+        <img src="https://img.shields.io/badge/-Git-green?logo=git" />
+        <img src="https://img.shields.io/badge/-FreeMarker-yellow?logo=apache" />
+        <img src="https://img.shields.io/badge/-Markdown-lightgrey?logo=markdown" />
+    </td>
+</tr>
 </table>
 
 
