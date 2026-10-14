@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 
 ***
 
-😄😄😄😄  What a fortune that we have [Mybatis](https://github.com/mybatis/mybatis-3) && [Mybatis-plus](https://github.com/baomidou/mybatis-plus)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=10B981&vCenter=true&width=750&lines=2022%3A+MyBatis+%26%26+MyBatis-Plus+%E2%86%92+Saving+us+from+SQL+boilerplate;2026%3A+Hermes+%26%26+Ollama+%E2%86%92+Building+the+entire+architecture+with+us" alt="Typing SVG" />
+</p>
+
+> 🧱 **2022:** What a fortune that we have **[MyBatis](https://github.com/mybatis/mybatis-3)** `&&` **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus)**  
+> 🧠 **2026:** Grateful for **[Hermes](https://github.com/NousResearch/hermes-agent)** `&&` **[Ollama](https://github.com/ollama/ollama)** building the entire architecture with us. ⚡
 
 <img src="https://github.com/hsiong/hsiong/blob/output/ocean.gif?raw=1" alt="snake gif" width="100%">
 
